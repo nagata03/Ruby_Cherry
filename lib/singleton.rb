@@ -1,5 +1,5 @@
 alice = 'I am Alice.'
-bob = 'I am Bob.'
+#bob = 'I am Bob.'
 
 # aliceオブジェクトにだけshuffleメソッドを定義する
 def alice.shuffle
